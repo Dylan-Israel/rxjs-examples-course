@@ -1,8 +1,5 @@
 # Fundamentals - of(), tap(), & pipe()
 
-
-
-
 ### Docs
 
 - [of()](https://rxjs.dev/api/index/function/of) - create an observable
